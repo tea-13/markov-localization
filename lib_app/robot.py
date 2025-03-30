@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from typing import List
 
 from .utils import curicular_conv, rotate_matrix
-from .movment_orient import RobotOrientation, Movement
+from .movment_orient import RobotOrientation, Movement, ROBOT_DIR_ORIENT
 from .config import *
 
 
