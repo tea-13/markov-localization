@@ -30,3 +30,6 @@ The application is designed to simulate the movement of a robot in a two-dimensi
 📍 **Training** — learning the principles of Markov localization visually.
 
 📍 **Autonomous Systems Development** — testing navigation in closed environments.
+
+## Original paper
+[paper](https://arxiv.org/abs/1106.0222)
